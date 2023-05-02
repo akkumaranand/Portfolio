@@ -259,6 +259,9 @@ header .navbar a:hover{
     gap: 1.5rem;
     padding: 1rem 0;
 }
+.cc{
+    display: flex;
+}
 
 .about .row .content .box-container .box{
     flex: 1 1 20rem;
