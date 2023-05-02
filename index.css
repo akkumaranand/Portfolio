@@ -262,7 +262,7 @@ header .navbar a:hover{
 .cc{
     display: flex;
 }
-.box-container{
+.bb{
     flex-direction: column;
 }
 .btn{
